@@ -15,7 +15,7 @@ I specialize in full-stack development, with expertise in the MERN stack (MongoD
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 - **Programming Languages:** C++, C, Python, Java
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind 
@@ -61,7 +61,7 @@ I specialize in full-stack development, with expertise in the MERN stack (MongoD
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nirmalramchandani&theme=dark&hide_border=false&include_all_commits=true&count_private=false"><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=nirmalramchandani&theme=dark&hide_border=false"><br/>
@@ -70,7 +70,7 @@ I specialize in full-stack development, with expertise in the MERN stack (MongoD
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with me!
 <p align="center">
   <a href="https://instagram.com/nirmal_ramchandani_2k23">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
